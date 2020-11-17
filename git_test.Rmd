@@ -14,3 +14,5 @@ Hi, Tom
 Hey Eric
 
 Have you collaborated in R before?
+
+Mmm, not with R, but with Python, and it was a bit of a mess. Google colab is a cool tool for real time colaboration as well: https://colab.research.google.com/drive/1P3cJm8PokGLffC8ZWMi00Pj099DrTbvv?usp=sharing
