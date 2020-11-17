@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi, Tom
 
 Hey Eric
+
+Have you collaborated in R before?
